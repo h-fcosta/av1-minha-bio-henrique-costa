@@ -1,3 +1,26 @@
 .cor-titulo {
-  color: #22ff22;
+  color: rgb(120, 204, 70);
+  font-family: "Courier New", Courier, monospace;
+}
+
+.cor-texto {
+  color: #abcdef;
+}
+
+.div-titulo {
+  background-color: aqua;
+}
+
+.cor-nome {
+  color: #def345;
+}
+
+.div-textos {
+  background-color: #142563;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.div-imagens {
+  background-color: #ccff00;
 }
